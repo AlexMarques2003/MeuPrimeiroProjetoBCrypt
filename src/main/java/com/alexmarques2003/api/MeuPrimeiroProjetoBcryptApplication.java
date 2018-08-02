@@ -12,8 +12,7 @@ public class MeuPrimeiroProjetoBcryptApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MeuPrimeiroProjetoBcryptApplication.class, args);
-	}
-	
+	}	
 	@Bean
 	public CommandLineRunner commandLineRunner() {
 		return args -> {

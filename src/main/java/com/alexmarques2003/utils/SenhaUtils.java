@@ -21,7 +21,6 @@ public class SenhaUtils {
 	}
 	
 	/* Verifica se a senha é válida
-	 * 
 	 * @param senha
 	 * @param senhaEncoded
 	 * @return boolean
